@@ -55,6 +55,15 @@ h4 {
 	margin-bottom: 0.5rem;
 }
 
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.app {
+	max-width: 520px;
+}
+
 .greeting .title {
 	display: flex;
 }
